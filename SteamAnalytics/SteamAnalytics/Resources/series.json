@@ -1,0 +1,16 @@
+{
+  "lancamentos_por_ano": [
+    { "ano": 2015, "qtd": 2678 },
+    { "ano": 2016, "qtd": 4207 }
+  ],
+  "pct_positivas_por_ano": [
+    { "ano": 2015, "mediana": 84.1, "q1": 70.6, "q3": 92.3, "n": 1123 }
+  ],
+  "faixas_preco": [
+    { "faixa": "Gratuito", "ordem": 0, "n": 3278, "pct_positivas_mediana": 76.9 },
+    { "faixa": "£0–5", "ordem": 1, "n": 5104, "pct_positivas_mediana": 81.2 }
+  ],
+  "periodos": [
+    { "periodo": "até 2009", "ordem": 0, "n": 412, "pct_positivas_mediana": 87.0 }
+  ]
+}

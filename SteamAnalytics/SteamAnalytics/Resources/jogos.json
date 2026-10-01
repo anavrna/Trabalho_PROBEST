@@ -1,0 +1,15 @@
+[
+  {
+    "appid": 570,
+    "nome": "Dota 2",
+    "ano": 2013,
+    "preco": 0.0,
+    "gratuito": true,
+    "genero": "Action",
+    "pct_positivas": 81.9,
+    "total_avaliacoes": 1044721,
+    "owners_mid": 150000000,
+    "multiplataforma": true,
+    "tem_conquistas": false
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "H1",
+    "pergunta": "Jogos gratuitos e pagos são avaliados de forma diferente?",
+    "h0": "As distribuições de % positivas são iguais",
+    "teste": "Mann-Whitney U",
+    "estatistica_nome": "U",
+    "estatistica": 12874553.0,
+    "p_valor": 0.0000000031,
+    "alfa": 0.05,
+    "rejeita_h0": true,
+    "efeito_nome": "rank-biserial",
+    "efeito_valor": -0.18,
+    "efeito_rotulo": "pequeno",
+    "conclusao": "Há diferença significativa, mas o tamanho de efeito é pequeno: na prática as duas distribuições se sobrepõem bastante.",
+    "grafico": "barras_grupo",
+    "dados": [
+      { "rotulo": "Gratuito", "valor": 76.9, "n": 1431 },
+      { "rotulo": "Pago", "valor": 83.1, "n": 10387 }
+    ]
+  }
+]
